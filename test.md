@@ -1,39 +1,43 @@
 # test
 
+.ve-media jstor:community.18496113 right
 
+ 
 
-.ve-media jstor:community.18496113
+.ve-media jstor:community.18495780 right
 
+ 
 
+.ve-media jstor:community.18512657 right
 
+ 
 
-.ve-media jstor:community.32529952
+.ve-media jstor:community.18683144 right
 
+ 
 
+.ve-media jstor:community.18528083 right
 
-.ve-media jstor:community.18495780
+ 
 
+.ve-media jstor:community.18431658 right
 
+ 
 
+.ve-media jstor:community.18301397 right
 
+ 
 
-.ve-media jstor:community.18512657
+.ve-media grid
 
-.ve-media
-    - jstor:community.18683144
+    - jstor:community.18528719
+
     - jstor:community.18528083
 
+    - jstor:community.18749008
 
-.ve-media jstor:community.18431658
+    - jstor:community.18528079
 
-.ve-media jstor:community.18301397
+    - jstor:community.18528088
 
-
-
-.ve-image grid
-.ve-image jstor:community.18528719
-.ve-image jstor:community.18528083
-.ve-image jstor:community.18749008
-.ve-image jstor:community.18528079
-.ve-image jstor:community.18528088
-.ve-image jstor:community.18528081
+    - jstor:community.18528081
