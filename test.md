@@ -10,6 +10,29 @@ Chess is perhaps the world's first global mega-hit, having migrated from East to
 ## Origins
 .ve-image jstor:community.18495780 right
 
+Here are a few [Milestones of the game](https://simple.wikipedia.org/wiki/History_of_chess), according to Wikipedia:
+
+    550 AD: Northwestern India
+    600AD: First clear reference to chess, in a Persian manuscript describes chess coming to Persia (Iran) from India.
+    ~700AD: Date of first undoubted chess pieces.
+    800AD: Moors bring chess to Spain and Sicily.
+    900AD: Early Muslim chess masters, as-Suli and al-Lajlaj write works on the technique of chess.
+    1000AD: Chess widespread in Europe, including Russia.
+    1300AD: First European comments on chess in sermons and stories.
+    1475–1500AD: Birth of the modern game: especially, new moves for queen and bishop.
+    1495: First printed chess book.
+    1497: First printed chess book to survive to the present day.
+    1600: First professional player-writers.
+    1780s: First master games to be recorded as they were played.
+    1836: First chess magazine.
+    1849: First US chess tournament.
+    1851: First international chess tournament.
+    1866: First match to be timed by clock.
+    1883: First tournament to use specially designed chess clocks.
+    1886: First acknowledged world championship match.
+    1927: First chess Olympiad, with FIDE as the organisers.
+    1960: Numerical rating of players becomes standard.
+
 
 ## Movement
 
