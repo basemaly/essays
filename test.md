@@ -8,7 +8,7 @@ Chess is perhaps the world's first global mega-hit, having migrated from East to
 
 
 ## Origins
-.ve-image jstor:community.18495780 right
+
 
 Here are a few [Milestones of the game](https://simple.wikipedia.org/wiki/History_of_chess), according to Wikipedia:
 
@@ -65,7 +65,7 @@ Here are a few [Milestones of the game](https://simple.wikipedia.org/wiki/Histor
 
 
 
-
+.ve-image jstor:community.18495780 right
 
 
 
