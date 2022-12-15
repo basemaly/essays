@@ -41,7 +41,7 @@ Here are a few [Milestones of the game](https://simple.wikipedia.org/wiki/Histor
 ## Design & Rules
 .ve-image jstor:community.32529952 right
 
-
+ve-media jstor:community.32529952
 
 ## Metaphors
 
