@@ -3,6 +3,7 @@
 Chess is perhaps the world's first global mega-hit, having migrated from East to West over the course of centuries. And we can easily track how the design and rules of the "immortal game" have [evolved and shifted over time](https://www.chess.com/article/view/the-10-most-important-moments-in-chess-history). Many people would be surprised to find out that some of chess' most iconic rules-- such as the Queen's dominance of the board-- developed at particular times and places. Chess has also been a fount of potent metaphors about society, emphasizing specific themes at specific times. To this day, we employ chess imagery to talk about social conditions, strategy, power, and fairness.
 
 
+.ve-media gh:juncture-digital/media/videos/Add_Image_Compare.mp4 width=80%
 
 
 
