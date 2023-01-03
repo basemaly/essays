@@ -1,4 +1,4 @@
 # dice.md
 
 
-.ve-media jstor:community.18302596
+.ve-image jstor:community.18302596
