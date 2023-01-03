@@ -18,3 +18,9 @@ Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
 Faience polyhedron inscribed with letters of the Greek alphabet
 .ve-image jstor:community.18691039
+
+
+.ve-image jstor:community.18304617
+
+
+.ve-image jstor:community.18302595
