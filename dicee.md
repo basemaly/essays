@@ -70,4 +70,4 @@ CARDS
 DIVINATION
 .ve-image jstor:community.26324158
 .ve-image jstor:community.26321500
-.ve-image jstor:
+.ve-image jstor:community.26320143
