@@ -1,0 +1,22 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Knucklebones?",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://www.jstor.org/iiif/2017/01/21/16/9488b5b3-2547-4da9-8ea9-b1074131909e_deflate.tif",
+      "selector": {
+        "type": "SvgSelector",
+        "value": "<svg><polygon points=\"1914.5567626953125,2014.3760986328125 2505.142333984375,1979.26025390625 2035.8662109375,2314.45751953125 1873.05615234375,2234.648681640625 1882.6331787109375,2170.801513671875\"></polygon></svg>"
+      },
+      "id": "7447d15a"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ed9ec2c4"
+  }
+]
