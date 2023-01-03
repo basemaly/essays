@@ -40,7 +40,9 @@ Group of eight glass astragali (knucklebones):
 .ve-image jstor:community.18670532
 
 
-.ve-image jstor:
+.ve-image jstor:community.27234954
+
+
 .ve-image jstor:
 .ve-image jstor:
 .ve-image jstor:
