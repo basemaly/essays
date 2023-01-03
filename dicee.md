@@ -5,6 +5,9 @@
 
 
 
+.ve-image jstor:community.24751050 left
+
+
 .ve-image jstor:community.18302596
 
 
