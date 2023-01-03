@@ -36,7 +36,10 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 .ve-image jstor: community.24885767
 
-.ve-image jstor:
+Group of eight glass astragali (knucklebones):
+.ve-image jstor:community.18670532
+
+
 .ve-image jstor:
 .ve-image jstor:
 .ve-image jstor:
