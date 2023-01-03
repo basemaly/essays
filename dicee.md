@@ -1,4 +1,4 @@
-# dicee.md
+# dice.md
 
 
-.ve-media jstore:community.18302596
+.ve-media jstor:community.18302596
