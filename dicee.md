@@ -45,7 +45,10 @@ Group of eight glass astragali (knucklebones):
 
 .ve-image jstor:community.24906680
 
-.ve-image jstor:
+Indian Fortune Teller: 
+.ve-image jstor:community.24898797
+
+
 .ve-image jstor:
 .ve-image jstor:
 
