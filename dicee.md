@@ -9,4 +9,4 @@
 
 
 Ancient Egyptian 20-sided die:
-.ve-image jstore:community.18304618 left
+.ve-image jstor:community.18304618 left
