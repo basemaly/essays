@@ -61,9 +61,11 @@ The Gypsy fortune teller:
 
 .ve-image jstor:community.24858450
 
+CARDS
+.ve-image jstor:community.15651408
 
-.ve-image jstor:
-.ve-image jstor:
+.ve-image jstor:community.24905364
+
 .ve-image jstor:
 .ve-image jstor:
 .ve-image jstor:
