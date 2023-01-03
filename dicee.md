@@ -1,4 +1,4 @@
 # dicee.md
 
 
-.ve-media 18302596
+.ve-media https://www.jstor.org/stable/community.18302596
