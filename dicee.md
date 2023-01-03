@@ -7,6 +7,11 @@
 
 .ve-image jstor:community.24751050 left
 
+.ve-image jstor:community.24888277
+
+
+
+
 
 .ve-image jstor:community.18302596
 
@@ -27,3 +32,15 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 
 .ve-image jstor:community.18302595
+
+
+.ve-image jstor: community.24885767
+
+.ve-image jstor:
+.ve-image jstor:
+.ve-image jstor:
+.ve-image jstor:
+.ve-image jstor:
+.ve-image jstor:
+
+.ve-image jstor:
