@@ -80,9 +80,9 @@ Ancient Egyptian 20-sided die:
 Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
 .ve-media grid=true
-- jstor:community.18304618 left
-- jstor:community.27234954
-- jstor:community.24906680
+- .ve-image jstor:community.18304618 left
+- .ve-image jstor:community.27234954
+- .ve-image jstor:community.24906680
 
 Indian Fortune Teller: 5
 .ve-image jstor:community.24898797
