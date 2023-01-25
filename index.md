@@ -25,6 +25,18 @@ Shooting arrows and interpreting where they land was a common divinatory practic
 
 In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
+**TAROT CARDS**
+
+https://www.collectorsweekly.com/articles/the-surprising-origins-of-tarot-most-misunderstood-cards/
+
+https://www.wopc.co.uk/
+
+https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/
+
+.ve-image jstor:community.15651408
+
+.ve-image jstor:community.24905364
+
 
 **KNUCKLEBONES**
 
@@ -75,7 +87,7 @@ Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
 .ve-image jstor:community.24906680
 
-Indian Fortune Teller: 
+Indian Fortune Teller: 5
 .ve-image jstor:community.24898797
 
 
@@ -90,9 +102,6 @@ Indian Fortune Teller:
 
 
 **CARDS**
-.ve-image jstor:community.15651408
-
-.ve-image jstor:community.24905364
 
 
 **DIVINATION**
