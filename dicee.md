@@ -1,7 +1,6 @@
 # dice.md
 
 
-.ve-media src=jstor:community.24604882 options=pct:35,42,10,25
 
 .ve-image jstor:community.18360171 right 
 "A game is a bounded, specific way of problem solving. Play is more cosmic an open-ended. Gods play, but man unfortunately is a gaming individual." --- David Graeber, *The Utopia of Rules*
@@ -11,7 +10,7 @@ It may surprise you to know that games and gambling have mystical origins rooted
 The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to tame the unsettling randomness of life. Before they were children's toys, they were predictive tools of one's fate. 
 
 
-FROM ARROWS TO PLAYING CARDS
+**FROM ARROWS TO PLAYING CARDS**
 
 Shooting arrows and interpreting where they land was a common divinatory practice throughout Europe and Asia. The earliest legends of Robin Hood included shooting an arrow to divine where the hero would be buried. Arrows were "cast" and where they landed determined where churches would be built, as local lore described how the Cathedral of Drum in Salisbury, England was built in 1219. Eventually, divinatory arrows evolved into long cards in Korea, which in turn spread to China, where [playing cards](https://www.wopc.co.uk/china/) as we now know them emerged:
 
@@ -21,7 +20,7 @@ Shooting arrows and interpreting where they land was a common divinatory practic
 In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
 
-KNUCKLEBONES
+**KNUCKLEBONES**
 
 Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
 
@@ -85,13 +84,13 @@ The Gypsy fortune teller:
 
 .ve-image jstor:community.24858450
 
-CARDS
+**CARDS**
 .ve-image jstor:community.15651408
 
 .ve-image jstor:community.24905364
 
 
-DIVINATION
+**DIVINATION**
 .ve-image jstor:community.26324158
 .ve-image jstor:community.26321500
 .ve-image jstor:community.26320143
