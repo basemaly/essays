@@ -39,7 +39,7 @@ Group of eight glass astragali (knucklebones):
 
 .ve-image jstor:community.24751050 left
 
-.ve-media jstor:community.24888277 options=pct:1476,435,844,540
+.ve-media jstor:community.24888277 pct:1476,435,844,540
 
 **FROM DIVINATION TO GAMBLING**
 
