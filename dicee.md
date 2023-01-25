@@ -1,6 +1,8 @@
 # dice.md
 
 
+.ve-media src=jstor:community.24604882 options=pct:35,42,10,25
+
 .ve-image jstor:community.18360171 right 
 "A game is a bounded, specific way of problem solving. Play is more cosmic an open-ended. Gods play, but man unfortunately is a gaming individual." --- David Graeber, *The Utopia of Rules*
 
