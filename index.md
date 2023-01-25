@@ -80,7 +80,7 @@ Ancient Egyptian 20-sided die:
 Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
 .ve-media grid=true
-- .ve-image jstor:community.18304618 left
+- .ve-image jstor:community.18304618
 - .ve-image jstor:community.27234954
 - .ve-image jstor:community.24906680
 
