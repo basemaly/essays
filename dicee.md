@@ -29,7 +29,7 @@ Knucklebones, the precursors of modern dice, appear throughout the world as tool
 
 .ve-image jstor:community.24751050 left
 
-.ve-image jstor:community.24888277
+.ve-image jstor:community.24888277 options=pct:1476,435,844,540
 
 FROM DIVINATION TO GAMBLING
 
