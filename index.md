@@ -21,7 +21,7 @@ The Gypsy fortune teller:
 Shooting arrows and interpreting where they land was a common divinatory practice throughout Europe and Asia. The earliest legends of Robin Hood included shooting an arrow to divine where the hero would be buried. Arrows were "cast" and where they landed determined where churches would be built, as local lore described how the Cathedral of Drum in Salisbury, England was built in 1219. Eventually, divinatory arrows evolved into long cards in Korea, which in turn spread to China, where [playing cards](https://www.wopc.co.uk/china/) as we now know them emerged:
 
 "[Stewart Culin] noted that traditional Korean playing cards, which are narrow strips rather than the broad rectangles commonly used in most of the world, bear a picture of an arrow on their backs, a relic of ancient divination. Culin believed that the Korean 'cards' were the origin of Chinese playing cards, whose patterns reproduce those of ancient paper money." 
-[Pennick, Nigel. Secret Games of the Gods: Ancient Ritual Systems in Board Games. Samuel Weiser. York Beach, Maine. 1989. Page 38]
+[Pennick, Nigel. *Secret Games of the Gods: Ancient Ritual Systems in Board Games.* Samuel Weiser. York Beach, Maine. 1989. Page 38]
 
 In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
