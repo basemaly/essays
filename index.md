@@ -50,11 +50,6 @@ Going from divination to gambling was a short leap, as people ascribed random ev
 .ve-image jstor:community.18302596
 
 
-Ancient Egyptian 20-sided die:
-Twenty-sided die (icosahedron) with faces inscribed with Greek letters
-.ve-image jstor:community.18304618 left
-
-
 
 
 
@@ -72,6 +67,9 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 .ve-image jstor: community.24885767
 
+Ancient Egyptian 20-sided die:
+Twenty-sided die (icosahedron) with faces inscribed with Greek letters
+.ve-image jstor:community.18304618 left
 
 
 
