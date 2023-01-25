@@ -10,7 +10,7 @@ The earliest examples of dice and playing cards were tools of divination. They r
 
 
 The Gypsy fortune teller: 
-.ve-media
+.ve-media compare
     - jstor:community.28536451
     - jstor:community.24858450
 
