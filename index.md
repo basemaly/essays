@@ -21,7 +21,7 @@ In pre-Islamic Arabia, seven arrows were used for divination in specific sacred 
 
 **KNUCKLEBONES**
 
-.ve-image jstor:community.26321830 right pct:400,200,20,50
+.ve-image jstor:community.26321830 right
 Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
 
 
