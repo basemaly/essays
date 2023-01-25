@@ -9,6 +9,13 @@ It may ==**surprise**=={1683,1795,990,648} you to know that games and gambling h
 The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to tame the unsettling randomness of life. Before they were children's toys, they were predictive tools of one's fate. 
 
 
+The Gypsy fortune teller: 
+.ve-media
+    - jstor:community.28536451
+    - jstor:community.24858450
+
+
+
 **FROM ARROWS TO PLAYING CARDS**
 
 Shooting arrows and interpreting where they land was a common divinatory practice throughout Europe and Asia. The earliest legends of Robin Hood included shooting an arrow to divine where the hero would be buried. Arrows were "cast" and where they landed determined where churches would be built, as local lore described how the Cathedral of Drum in Salisbury, England was built in 1219. Eventually, divinatory arrows evolved into long cards in Korea, which in turn spread to China, where [playing cards](https://www.wopc.co.uk/china/) as we now know them emerged:
@@ -74,8 +81,6 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 Indian Fortune Teller: 
 .ve-image jstor:community.24898797
 
-The Gypsy fortune teller: 
-.ve-image jstor:community.28536451
 
 
 .ve-image jstor:community.18412403
@@ -85,7 +90,7 @@ The Gypsy fortune teller:
 .ve-image jstor:community.24744282
 
 
-.ve-image jstor:community.24858450
+
 
 **CARDS**
 .ve-image jstor:community.15651408
