@@ -24,13 +24,17 @@ In pre-Islamic Arabia, seven arrows were used for divination in specific sacred 
 .ve-image jstor:community.26321830 fit
 Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
 
+Group of eight glass astragali (knucklebones):
+.ve-image jstor:community.18670532
+
+
 
 
 .ve-image jstor:community.24751050 left
 
 .ve-image jstor:community.24888277 options=pct:1476,435,844,540
 
-FROM DIVINATION TO GAMBLING
+**FROM DIVINATION TO GAMBLING**
 
 Going from divination to gambling was a short leap, as people ascribed random events to divine will. If a good harvest can be predicted by casting knucklebones, then one's immediate fortune could be made by betting on specific outcomes such as a die's facing, or a sequence of cards. Both the harvest and the winning hand were products of "Fortuna's wheel."
 
@@ -59,8 +63,7 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 .ve-image jstor: community.24885767
 
-Group of eight glass astragali (knucklebones):
-.ve-image jstor:community.18670532
+
 
 
 .ve-image jstor:community.27234954
