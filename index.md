@@ -4,7 +4,7 @@
 .ve-image jstor:community.18360171 right 
 "A game is a bounded, specific way of problem solving. Play is more cosmic an open-ended. Gods play, but man unfortunately is a gaming individual." --- David Graeber, *The Utopia of Rules*
 
-It may ==surprise=={1683,1795,990,648} you to know that games and gambling have mystical origins rooted in early cultures' attempts to predict the future, to appeal to the gods, and to discover hidden aspects of reality. Fortune tellers threw knucklebones, shot arrows, and dealt cards as a way to uncover the hidden forces shaping our lives. The modern components of board games evolved from these early practices and artifacts. 
+It may ==**surprise**=={1683,1795,990,648} you to know that games and gambling have mystical origins rooted in early cultures' attempts to predict the future, to appeal to the gods, and to discover hidden aspects of reality. Fortune tellers threw knucklebones, shot arrows, and dealt cards as a way to uncover the hidden forces shaping our lives. The modern components of board games evolved from these early practices and artifacts. 
 
 The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to tame the unsettling randomness of life. Before they were children's toys, they were predictive tools of one's fate. 
 
