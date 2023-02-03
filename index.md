@@ -64,7 +64,7 @@ Faience polyhedron inscribed with letters of the Greek alphabet
     - jstor:community.18302595
 
 
-.ve-image jstor:community.18304617
+
 
 
 
