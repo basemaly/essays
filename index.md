@@ -28,6 +28,7 @@ In pre-Islamic Arabia, seven arrows were used for divination in specific sacred 
 
 
 **TAROT CARDS**
+.ve-image jstor:community.24744282 right
 
 https://www.collectorsweekly.com/articles/the-surprising-origins-of-tarot-most-misunderstood-cards/
 
@@ -84,7 +85,7 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 .ve-image jstor:community.24858453
 
-.ve-image jstor:community.24744282
+
 
 
 
