@@ -52,7 +52,7 @@ Going from divination to gambling was a short leap, as people ascribed random ev
 
 
 
-.ve-image jstor:community.24888277 options=pct:1476,435,844,540
+.ve-image jstor:community.24888277
 
 
 
