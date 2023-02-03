@@ -30,7 +30,13 @@ In pre-Islamic Arabia, seven arrows were used for divination in specific sacred 
 **TAROT CARDS**
 .ve-image jstor:community.24744282 right
 
-Some text about tarot cards go here
+Tarot cards evolved in Europe during the renaissance from elaborate suites of playing cards... 
+Some more text about tarot cards go here
+xxxxxx
+xxxxxx
+xxxxx
+xxxxxx
+
 
 
 
