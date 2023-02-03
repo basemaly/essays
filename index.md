@@ -39,6 +39,7 @@ https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and
 
 **KNUCKLEBONES**
 .ve-image jstor:community.27234954 right
+.ve-image jstor:community.27234954 left
 Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
 
 
@@ -71,11 +72,7 @@ Faience polyhedron inscribed with letters of the Greek alphabet
 
 .ve-image jstor: community.24885767
 
-Ancient Egyptian 20-sided die:
-Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
-
-.ve-image jstor:community.18304618
 
 .ve-image jstor:community.24906680
 
