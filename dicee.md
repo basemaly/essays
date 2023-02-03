@@ -1,16 +1,9 @@
 # dice.md
 
 
-.ve-media wc:The_Bug_Peek.jpg right
-
-Click on the text below to trigger an image `zoom to` action.
-- ==A close-up of the bug=={1131,639,1358,904}
-- ==Some kind of fungus on the leaf?=={1229,2533,928,618}
-- ==Full image view=={pct:0,0,100,100}
-
 
 .ve-media jstor:community.18360171 right 
-- == Close-up of dice=={1893,1956,496,324}
+- ==Close-up of dice=={1893,1956,496,324}
 
 "A game is a bounded, specific way of problem solving. Play is more cosmic an open-ended. Gods play, but man unfortunately is a gaming individual." --- David Graeber, *The Utopia of Rules*
 
