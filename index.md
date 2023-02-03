@@ -47,10 +47,12 @@ Knucklebones, the precursors of modern dice, appear throughout the world as tool
 
 
 **FROM DIVINATION TO GAMBLING**
-
+.ve-image jstor:community.24751050 left
 Going from divination to gambling was a short leap, as people ascribed random events to divine will. If a good harvest can be predicted by casting knucklebones, then one's immediate fortune could be made by betting on specific outcomes such as a die's facing, or a sequence of cards. Both the harvest and the winning hand were products of "Fortuna's wheel."
 
 
+
+.ve-image jstor:community.24888277 options=pct:1476,435,844,540
 
 
 
