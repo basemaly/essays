@@ -25,6 +25,9 @@ Shooting arrows and interpreting where they land was a common divinatory practic
 
 In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
+.ve-iframe https://www.wopc.co.uk/
+
+
 **TAROT CARDS**
 
 https://www.collectorsweekly.com/articles/the-surprising-origins-of-tarot-most-misunderstood-cards/
