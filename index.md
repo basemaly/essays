@@ -35,10 +35,6 @@ https://www.wopc.co.uk/
 
 https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/
 
-.ve-media jstor:community.15651408
-
-.ve-image jstor:community.24905364
-
 
 **KNUCKLEBONES**
 
