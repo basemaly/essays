@@ -63,20 +63,21 @@ Faience polyhedron inscribed with letters of the Greek alphabet
     - jstor:community.18302595
 
 
+.ve-image jstor:community.18304617
 
 
 
 
 
-
+.ve-image jstor: community.24885767
 
 Ancient Egyptian 20-sided die:
 Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
-.ve-media grid
-- .ve-image jstor:community.18304618
 
-- .ve-image jstor:community.24906680
+.ve-image jstor:community.18304618
+
+.ve-image jstor:community.24906680
 
 
 
