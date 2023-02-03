@@ -41,16 +41,12 @@ https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and
 
 
 **KNUCKLEBONES**
-
-.ve-image jstor:community.26321830 
+.ve-image jstor:community.27234954 right
 Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
 
 
 
 
-.ve-image jstor:community.24751050 left
-
-.ve-media jstor:community.24888277 options=pct:233,1276,844,540
 
 **FROM DIVINATION TO GAMBLING**
 
@@ -83,11 +79,8 @@ Twenty-sided die (icosahedron) with faces inscribed with Greek letters
 
 .ve-media grid
 - .ve-image jstor:community.18304618
-- .ve-image jstor:community.27234954
-- .ve-image jstor:community.24906680
 
-Indian Fortune Teller: 5
-.ve-image jstor:community.24898797
+- .ve-image jstor:community.24906680
 
 
 
@@ -102,8 +95,3 @@ Indian Fortune Teller: 5
 
 **CARDS**
 
-
-**DIVINATION**
-.ve-image jstor:community.26324158
-.ve-image jstor:community.26321500
-.ve-image jstor:community.26320143
