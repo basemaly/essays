@@ -19,6 +19,8 @@ The Gypsy fortune teller:
     - Q90
     - Q5465
 
+
+**MAP TEST**
 Click on the text below to trigger a `fly to` action.
 - ==New York=={40.7,-74,10}
 - ==Paris=={48.856944,2.351389,10}
