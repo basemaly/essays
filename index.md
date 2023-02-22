@@ -14,12 +14,6 @@ The Gypsy fortune teller:
     - jstor:community.28536451
     - jstor:community.24858450
 
-.ve-map 11.18,-27.77 2 right
-    - Q60
-    - Q90
-    - Q5465
-
-
 **MAP TEST**
 .ve-map 11.18,-27.77 2 right
     - Q60
