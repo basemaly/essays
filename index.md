@@ -6,7 +6,7 @@
 
 It may ==**surprise**=={1683,1795,990,648} you to know that games and gambling have mystical origins rooted in early cultures' attempts to predict the future, to appeal to the gods, and to discover hidden aspects of reality. Fortune tellers threw knucklebones, shot arrows, and dealt cards as a way to uncover the hidden forces shaping our lives. The modern components of board games evolved from these early practices and artifacts. 
 
-The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to tame the unsettling randomness of life. Before they were children's toys, they were predictive tools of one's fate. 
+The earliest examples of dice and playing cards were tools of divination. They represented the power and capriciousness of nature, and they fulfilled a deeply human need to make sense of the unsettling randomness of life. Before dice and cards were childrens' toys, they were predictive tools of one's fate. 
 
 
 The Gypsy fortune teller: 
@@ -14,17 +14,18 @@ The Gypsy fortune teller:
     - jstor:community.28536451
     - jstor:community.24858450
 
-**MAP TEST**
-.ve-map 11.18,-27.77 2 right
-    - Q60
-    - Q90
-    - Q5465
 
-Click on the text below to trigger a `fly to` action.
-- ==New York=={40.7,-74,10}
-- ==Paris=={48.856944,2.351389,10}
-- ==Cape Town=={-33.925,18.425,10}
-- ==Overview=={11.18,-27.77,2}
+**KNUCKLEBONES**
+.ve-media grid
+    - jstor:community.18670532 height=240px right
+    - jstor:community.27234954 height=240px left
+Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
+
+
+**FROM DIVINATION TO GAMBLING**
+.ve-image jstor:community.24751050 left
+Going from divination to gambling was a short leap, as people ascribed random events to divine will. If a good harvest can be predicted by casting knucklebones, then one's immediate fortune could be made by betting on specific outcomes such as a die's facing, or a sequence of cards. Both the harvest and the winning hand were products of "Fortuna's wheel."
+
 
 **FROM ARROWS TO PLAYING CARDS**
 
@@ -35,21 +36,14 @@ Shooting arrows and interpreting where they land was a common divinatory practic
 
 In pre-Islamic Arabia, seven arrows were used for divination in specific sacred places, as well as for profane gambling in the game Maysar. Where and how the arrows landed could determine your fate as well as your winnings. The popularity of Maysar is evident in Islam's later [prohibition against gambling](https://aims.education/maysir-and-games-of-chances-in-islam/), which is seen as trivializing divine power.
 
-
-
 **TAROT CARDS**
-.ve-image jstor:community.24744282 right
+.ve-image jstor:community.15651408 left
 
-Tarot cards evolved in Europe during the renaissance from elaborate suites of playing cards... 
-Some more text about tarot cards go here
-xxxxxx
+At some point these tools of divination were used for more prosaic purposes while maintaining their mystical nature. Early playing cards were hand-painted, sometimes gilded, and depicted categories of experience such as lunar cycles, heavenly spheres, and spiritual hierarchies. According to [Simon Wintle](https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/), 
 
+*"Playing cards have always served two distinct purposes: gambling, and the playing of games of skill. Their introduction provided a new alternative to dice and knuckle bones. Evidently both kinds of game existed in Europe since the first introduction of playing cards. Prohibitions of card playing and denunciations by preachers demonstrate their widespread use for gambling. However, instances of playing cards being used for games of skill are also recorded, as well as instances of moralising, allegory and representations of the social hierarchy."=={Playing cards have always served two distinct purposes: gambling, and the playing of games of skill. Their introduction provided a new alternative to dice and knuckle bones. Evidently both kinds of game existed in Europe since the first introduction of playing cards. Prohibitions of card playing and denunciations by preachers demonstrate their widespread use for gambling. However, instances of playing cards being used for games of skill are also recorded, as well as instances of moralising, allegory and representations of the social hierarchy."*
 
-xxxxxx
-
-xxxxx
-
-xxxxxx
+European references to playing cards date from the 1370's from Catalonia, Florence, Sienna, and Germany. Although none survive, we know from other accounts that they were luxury items, richly illuminated "in gold and various colors" similar to the fine manuscripts circulating at that time. Much of the earliest decks borrowed from Islamic themes, reflecting Spain's Moorish culture. Eventually as demand grew, cheaper to produce woodcut and paper card decks appeared as these games grew in popularity. 
 
 
 
@@ -65,20 +59,8 @@ https://www.wopc.co.uk/
 
 https://www.collectorsweekly.com/articles/guest-column-the-evolution-history-and-imagery-of-playing-cards/
 
+.ve-image jstor:community.24744282 right
 
-
-**KNUCKLEBONES**
-.ve-image jstor:community.18670532 height=340px right
-.ve-image jstor:community.27234954 left
-Knucklebones, the precursors of modern dice, appear throughout the world as tools of divination. How they land when they're "cast"-- their arrangements as well as their facing-- revealed the future. Eventually primitive knucklebones where refined and stylized, becoming the objects of stochastic fascination we know today. 
-
-
-
-
-
-**FROM DIVINATION TO GAMBLING**
-.ve-image jstor:community.24751050 left
-Going from divination to gambling was a short leap, as people ascribed random events to divine will. If a good harvest can be predicted by casting knucklebones, then one's immediate fortune could be made by betting on specific outcomes such as a die's facing, or a sequence of cards. Both the harvest and the winning hand were products of "Fortuna's wheel."
 
 
 
